@@ -6,7 +6,9 @@
  * the original string your method should return the original string.
  *
  */
-
+/**
+ * TO-DO: This program is incorrect since I have not verified the order of characters
+ */
 function strCompression(str) {
     let count = 1;
     let newStr = '';
